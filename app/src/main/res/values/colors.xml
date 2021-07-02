@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#A53FA3</color>
+    <color name="colorPrimaryDark">#A53FA3</color>
+    <color name="colorSecondary">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#FFDE0A</color>
+    <color name="grey">#808080</color>
+
+    <color name="colorDarkWhite">#F2F2F2</color>
+    <color name="colorLightPurpleBackground">#19A53FA3</color>
+
+    <color name="colorTextPurple">#6E7FAA</color>
+    <color name="colorTextBlack">#353B48</color>
+
+</resources>

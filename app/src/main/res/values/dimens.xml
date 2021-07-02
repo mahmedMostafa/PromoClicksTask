@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_spacing_x0_0">1dp</dimen>
+    <dimen name="default_spacing_x0_1">2dp</dimen>
+    <dimen name="default_spacing_x0_2">4dp</dimen>
+    <dimen name="default_spacing_x0_3">6dp</dimen>
+    <dimen name="default_spacing_x0_4">6dp</dimen>
+    <dimen name="default_spacing_x0_5">8dp</dimen>
+    <dimen name="default_spacing_x0_6">10dp</dimen>
+    <dimen name="default_spacing_x0_8">12dp</dimen>
+    <dimen name="default_spacing_x0_9">14dp</dimen>
+    <dimen name="default_spacing">16dp</dimen>
+    <dimen name="default_spacing_x1_5">24dp</dimen>
+    <dimen name="default_spacing_x1_8">26dp</dimen>
+    <dimen name="default_spacing_x1_8_5">28dp</dimen>
+    <dimen name="default_spacing_x1_9">30dp</dimen>
+    <dimen name="default_spacing_x2">32dp</dimen>
+    <dimen name="default_spacing_x2_2">36dp</dimen>
+    <dimen name="default_spacing_x2_5">40dp</dimen>
+    <dimen name="default_spacing_x3">48dp</dimen>
+    <dimen name="default_spacing_x3_5">56dp</dimen>
+    <dimen name="default_spacing_x4">64dp</dimen>
+    <dimen name="default_spacing_x4_5">72dp</dimen>
+    <dimen name="default_spacing_x5">80dp</dimen>
+
+    <dimen name="default_radius">2dp</dimen>
+    <dimen name="default_radius_x2">4dp</dimen>
+    <dimen name="default_radius_x3">8dp</dimen>
+    <dimen name="default_radius_x100">100dp</dimen>
+
+    <dimen name="default_scrollbar_width">4dp</dimen>
+
+</resources>

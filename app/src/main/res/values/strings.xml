@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PromoClicksTask</string>
+    <string name="home">Home</string>
+    <string name="categories">Categories</string>
+    <string name="saved">Saved</string>
+    <string name="more">More</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="find_your_favorite_items">Find your Favorite Items</string>
+    <string name="_1">1</string>
+    <string name="search">Search…</string>
+    <string name="sponsers">Sponsors</string>
+    <string name="vendors">Vendors</string>
+    <string name="hot_discounts">Hot Discounts</string>
+    <string name="recommeneded">Recommended</string>
+    <string name="hot_seller">Hot Sellers</string>
+    <string name="description">Description</string>
+    <string name="price">%s EGP</string>
+    <string name="reviews">Reviews</string>
+    <string name="location">Location</string>
+    <string name="google_maps_api_key">AIzaSyAPokcArMaMij1RGHEQt4_gcwViQYyamuQ</string>
+</resources>
